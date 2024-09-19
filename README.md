@@ -2,7 +2,7 @@
 
 **English Description:**
 
-`simple_video_downloader` is an easy-to-use video downloader that supports downloading videos from multiple platforms, including YouTube, Twitch, and Bilibili.
+`simple_video_downloader` is an easy-to-use video downloader that supports downloading videos from multiple platforms, including YouTube, Twitch, 和 Bilibili.
 
 **中文描述：**
 
@@ -47,7 +47,7 @@
    ```
 
 7. **Alternatively, download the precompiled package: / 也可以下载编译好的懒人一键包：**
-   - The precompiled package can be found in the [releases](https://github.com/204313508/simple_video_downloader/releases) section or on Baidu Netdisk link: [www.baidu.com](www.baidu.com).
+   - The precompiled package can be found in the [releases](https://github.com/204313508/simple_video_downloader/releases) section or on Baidu Netdisk link with password 6666: [百度网盘链接 提取码6666](https://pan.baidu.com/s/1Zhy_Qq799DS9GQEzurwVpw?pwd=6666) or on 123 Netdisk link: [123网盘链接](https://www.123pan.com/s/lOcnjv-GcrG3)
 
 ## Usage / 使用方法
 
